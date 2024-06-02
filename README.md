@@ -1,5 +1,5 @@
 # JobCollector
-Simple GUI created to aggregate job listings
+Simple web page created to aggregate job listings and practice with React and Django
 
 ## How to use
 
